@@ -1,4 +1,4 @@
-# riafytest
+# UI Drill
 
 A new Flutter application.
 
@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [GoogleDrive: Download the apk](https://drive.google.com/file/d/1pp8r5Q1eaWXom89MaKvXPDxgOlxheS-J/view?usp=sharing)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
